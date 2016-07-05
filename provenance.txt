@@ -1,0 +1,39 @@
+Template info:
+
+Group: jackietreehornpublishing
+Name: treehorn-spring-rest-microservice
+Version 1.0.0-SNAPSHOT
+
+Backing GitHub repo:
+Owner: jackietreehornpublishing
+Repo: treehorn-spring-rest-microservice
+Branch: master
+Path (within repo): 
+sha: c63a4f3aaeb939acdbba010f553fbff480869769
+
+
+Parameter values (passed in on template invocation):
+description='null'
+package_name='com.maxgrip.streamplus.riskcalculator'
+team-id='T1KHULA3E'
+name='riskCalculator'
+template='treehorn-spring-rest-microservice'
+user-id='U1NR5A3J8'
+group_id='streamplus'
+org='jackietreehornpublishing'
+version='0.0.1'
+artifact_id='riskCalculator'
+visibility='public'
+
+Computed parameter values (computed based on parameter values passed in):
+date_time='05 07 2016 '
+configuration_class_name='RiskCalculatorConfiguration'
+package_path='com/maxgrip/streamplus/riskcalculator'
+base_source_path='src/main/java'
+base_test_path='src/test/java'
+containerless_web_integration_test_name='RiskCalculatorOutOfContainerIntegrationTests'
+application_name='RiskCalculator'
+application_class_name='RiskCalculatorApplication'
+startup_test_name='RiskCalculatorApplicationTests'
+web_integration_test_name='RiskCalculatorWebIntegrationTests'
+creation_date='Tue Jul 05 2016 10:57:21 GMT+0000 (UTC)'
